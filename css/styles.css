@@ -1,0 +1,20 @@
+.contenedor {
+    border: 1px solid;
+    text-align: center;
+    width: 50%;
+}
+
+.titulo {
+    font-size: 1.3rem;
+}
+
+#mensaje-alerta {}
+
+#operacion {
+    margin-top: 1rem;
+}
+
+.btn {
+    margin: 2rem;
+    ;
+}
