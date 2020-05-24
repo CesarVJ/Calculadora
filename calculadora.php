@@ -14,10 +14,4 @@
         }
         return 0;
     }
-
-    function saludo($variable1){
-        return $variable1;
-    }
-
-
 ?>
